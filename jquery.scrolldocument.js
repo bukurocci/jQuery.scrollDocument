@@ -2,7 +2,7 @@
  * jQuery ScrollDocument
  *
  * License: MIT license.
- * Copyright 2013 Naokazu Shimabukuro
+ * https://github.com/bukurocci/jQuery.scrollDocument
  *
 */
 
